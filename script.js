@@ -16,4 +16,5 @@ input.addEventListener('keyup', () => {
         img.src = "message.png";
         img.classList.add("active");
     }
-})
+});
+
